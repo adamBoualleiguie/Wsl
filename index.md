@@ -18,4 +18,6 @@ par exemple  un serveur qui  a une  capacité de calcul et de stockage puissante
 _**par exemple ce serveur doit lancer 2 services mais chacun de ces services se déroule sur 2 différente type de O.S (système d'exploitation) 
 n'oubliant pas que théoriquement ce serveur a la capabilité de les lancer à la fois le seul obstacle c'est que ce dernier ne peut pas exécuter les 2 différents systèmes d'exploitation simultanément**_
 
+  La **Virtualisation** etais la solution ! 
+ Grâce à la virtualisation , le serveur peut  lancer des systèmes d'exploitation pour avoir 2 services qui fonctionnent simultanément et correctement 
 
