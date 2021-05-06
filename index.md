@@ -9,7 +9,9 @@ La virtualisation est une technologie permettant de créer et d’exécuter une 
 ### exemple
 cette technologie est conçue pour des besoins d'optimisation des couts logistiques.
 par exemple  un serveur qui  a une  capacité de calcul et de stockage puissante :computer:
-#### une situation: 
+![Image of Yaktocat](https://base.imgix.net/files/base/ebm/ehstoday/image/2019/03/ehstoday_3561_problemsolution.png?auto=format&fit=crop&h=432&w=768)
+### une situation: 
 _**par exemple ce serveur doit lancer 2 services mais chacun de ces services se déroule sur 2 différente type de O.S (système d'exploitation) 
 n'oubliant pas que théoriquement ce serveur a la capabilité de les lancer à la fois le seul obstacle c'est que ce dernier ne peut pas exécuter les 2 différents systèmes d'exploitation simultanément**_
+
 
