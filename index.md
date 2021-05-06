@@ -36,7 +36,7 @@ n'oubliant pas que théoriquement ce serveur a la capabilité de les lancer à l
  Windows Subsystem for Linux (WSL) est une couche de compatibilité permettant d'exécuter des exécutables binaires Linux (au format ELF) de manière native sur Windows 10 et Windows Server 2019.
 
 ```
- choco install wsl2 --params "/Version:2 /Retry:true"
+ powershell/system32> choco install wsl2 --params "/Version:2 /Retry:true"
 
 ```
 
