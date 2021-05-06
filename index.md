@@ -22,7 +22,7 @@ n'oubliant pas que théoriquement ce serveur a la capabilité de les lancer à l
 
  Grâce à cette technologie  , le serveur peut  lancer des systèmes d'exploitation pour avoir 2 services qui fonctionnent simultanément et correctement 
 
-## 2/les domaines de virtualisation 
+## 2/ les domaines de virtualisation 
 
 - cette technologie touche beaucoups de domaines on parle : 
   - virtualisation de serveur
@@ -30,6 +30,24 @@ n'oubliant pas que théoriquement ce serveur a la capabilité de les lancer à l
   - virtualisation de stockage
   - La virtualisation d’application
   - etc..
+
+## 3/ WSL Windows Subsystem Linux 
+###      definition generale 
+ Windows Subsystem for Linux (WSL) est une couche de compatibilité permettant d'exécuter des exécutables binaires Linux (au format ELF) de manière native sur Windows 10 et Windows Server 2019.
+
+```
+ powershell/system32> choco install wsl2 --params "/Version:2 /Retry:true"
+
+```
+
+
+
+
+
+
+
+
+
 
 
 
