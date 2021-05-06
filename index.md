@@ -25,11 +25,11 @@ n'oubliant pas que théoriquement ce serveur a la capabilité de les lancer à l
 ## 2/les domaines de virtualisation 
 
 - cette technologie touche beaucoups de domaines on parle : 
- - virtualisation de serveur
- - virtualisation de réseau
- - virtualisation de stockage
- - La virtualisation d’application
- - etc..
+  - virtualisation de serveur
+  - virtualisation de réseau
+  - virtualisation de stockage
+  - La virtualisation d’application
+  - etc..
 
 
 
