@@ -40,7 +40,9 @@ n'oubliant pas que théoriquement ce serveur a la capabilité de les lancer à l
       -powershell/system32>``` choco install wsl2 --params "/Version:2 /Retry:true"
 
 ```
-
+```diff
+-test
+```
 
 
 
