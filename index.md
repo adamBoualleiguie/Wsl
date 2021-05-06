@@ -36,7 +36,7 @@ n'oubliant pas que théoriquement ce serveur a la capabilité de les lancer à l
  Windows Subsystem for Linux (WSL) est une couche de compatibilité permettant d'exécuter des exécutables binaires Linux (au format ELF) de manière native sur Windows 10 et Windows Server 2019.
 
 ###      concepte
-** [x] wsl est un projet supporté par windows** 
+- [x] **wsl est un projet supporté par windows** 
 
 chaque système d'exploitation possède un noyau (kernel) ; il gère les ressources de l’ordinateur et permet aux différents composants — matériels et logiciels — de communiquer entre eux.
 
@@ -49,10 +49,11 @@ C'est-à-dire   windows  peut maintenant  lancer les commandes  linux directemen
 linux command --> wsl(partie du noyau windows) --> hardware 
 
 ## comparaison entre wsl et virtual machine 
-  **  [x] le boot d'un system d'exploitation  sur wsl est plus rapide qu'une  machine virtuelle ** 
-  **  [x] wsl partage les sources physiques  [] la machine virtuelle réserve une partie des  ressources hard ** 
-     
+-  [x] **le boot d'un system d'exploitation  sur wsl est plus rapide qu'une  machine virtuelle ** 
+-  [x] **wsl partage les sources physiques** 
+-  [] **la machine virtuelle réserve une partie des  ressources hard**
 ### exemple
+
 un pc :computer:  de 16gb ram peut virtualiser une machine virtuelle avec des caractéristiques de 8 go de ram si on lance cette machine 8gb seront réservées  et la partie  host  sera lente par contre si on lance ubuntu/wsl windows et Ubuntu partagent les resources
 
 ## wsl et la vie de developement 
