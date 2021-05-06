@@ -19,6 +19,17 @@ _**par exemple ce serveur doit lancer 2 services mais chacun de ces services se 
 n'oubliant pas que théoriquement ce serveur a la capabilité de les lancer à la fois le seul obstacle c'est que ce dernier ne peut pas exécuter les 2 différents systèmes d'exploitation simultanément**_
 
  La **Virtualisation** etais la solution !
-  
+
  Grâce à cette technologie  , le serveur peut  lancer des systèmes d'exploitation pour avoir 2 services qui fonctionnent simultanément et correctement 
+
+## 2/les domaines de virtualisation 
+
+- cette technologie touche beaucoups de domaines on parle : 
+ - virtualisation de serveur
+ - virtualisation de réseau
+ - virtualisation de stockage
+ - La virtualisation d’application
+ - etc..
+
+
 
